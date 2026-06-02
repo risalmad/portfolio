@@ -3,6 +3,8 @@
 ---> git add -A / git add . /git add index.html style.css
 ---> git commit -m ",message"
 ---> git config --list (for checking the configuration list)
----> git config -- globel user,name risal
+---> git config --globel user.name risal
 ---> git config --globel user.mail risalbmad@gmail.com
----> git remote add origin 
+---> git remote add origin https://github.com/risalmad/portfolio.git
+---> git push origin master
+---> git clone (link)
